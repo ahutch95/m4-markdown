@@ -6,15 +6,11 @@ Then, in the space below, put your favorite quote in a block quote, and provide 
 
 See `complete` branch for an example.
 
-,,,
-Listen to the MUSTN'TS, child,
-      Listen to the DON'TS
-      Listen to the SHOULDN'TS
-The IMPOSSIBLES, the WONT'S
-      Listen to the NEVER HAVES
-Then listen close to me-
-      Anything can happen, child,
-ANYTHING can be
-,,,
+
+>Listen to the MUSTN'TS, child, Listen to the DON'TS. 
+>Listen to the SHOULDN'TS, The IMPOSSIBLES, the WONT'S.
+>Listen to the NEVER HAVES, Then listen close to me-
+>Anything can happen, child, ANYTHING can be.
+
 
 This is [the link](http://quotes.wiki/listen-to-the-mustnts-child-listen-to-the-donts-listen-to-the-shouldnts-the-impossibles-the-wonts-listen-to-the-never-haves-then-listen-close-to-me-anything-can-happen-child-anythi/ "Poem") to more info on the poem.
